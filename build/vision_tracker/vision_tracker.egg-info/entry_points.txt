@@ -1,0 +1,3 @@
+[console_scripts]
+vision_controller = vision_tracker.vision_controller:main
+
