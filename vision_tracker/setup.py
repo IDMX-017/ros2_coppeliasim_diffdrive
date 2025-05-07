@@ -21,6 +21,7 @@ setup(
     entry_points={
         'console_scripts': [
 	        'vision_controller = vision_tracker.vision_controller:main',
+            'color_fsm = vision_tracker.color_fsm:main',
         ],
     },
 )
